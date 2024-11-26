@@ -41,6 +41,17 @@ Welcome to my GitHub profile! I'm a **Staff Software Engineer** with over 18 yea
 
 ---
 
+## 📊 GitHub Stats
+
+![Narsimha's GitHub stats](https://github-readme-stats.vercel.app/api?username=knswamy25&show_icons=true&theme=radical)
+
+---
+
+### 📝 Featured Projects
+- 🔗 [Project Name](#): RAG Implementations
+
+---
+
 
 ## 🌐 Connect with Me
 
