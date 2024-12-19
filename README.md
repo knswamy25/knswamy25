@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a **Staff Software Engineer** with over 18 yea
 ---
 
 ### 📝 Featured Projects
-- 🔗 [Project Name](#): RAG Implementations
+- 🔗 [https://github.com/knswamy25/rag](#): RAG Implementations
 - 🔗 [Project Name](#): Machine Learning Algorithms Implementations
 
 ---
@@ -56,8 +56,7 @@ Welcome to my GitHub profile! I'm a **Staff Software Engineer** with over 18 yea
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/narsimha-swamy-kashamshetty-17ba5a23)
-- 📫 Email: knswamy25@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nkashamshetty)
 
 ---
 
