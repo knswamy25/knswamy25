@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a **Staff Software Engineer** with over 18 yea
 
 ### 📝 Featured Projects
 - 🔗 [RAG Implementations](https://github.com/knswamy25/rag)
-- 🔗 [Machine Learning Algorithms Implementations](https://github.com/knswamy25/ml-algoritms): 
+- 🔗 [Machine Learning Algorithms Implementations](https://github.com/knswamy25/ml-algoritms) 
 
 ---
 
