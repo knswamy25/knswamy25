@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a **Staff Software Engineer** with over 18 yea
 
 ### 📝 Featured Projects
 - 🔗 [Project Name](#): RAG Implementations
-- - 🔗 [Project Name](#): Machine Learning Algorithms Implementations
+- 🔗 [Project Name](#): Machine Learning Algorithms Implementations
 
 ---
 
