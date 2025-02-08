@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Staff Software Engineer** with over 18 yea
 
 - 🌟 **Expertise**: Building and deploying machine learning infrastructure, productionizing ML models, and optimizing cloud-based systems for scale.
 - 📍 **Location**: Based in the USA.
-- 🎯 **Current Role**: Staff Software Engineer at **Chegg Inc**, where I focus on deploying Large Language Models (LLMs) and building end-to-end ML platforms.
+- 🎯 **Current Role**: Staff Software Engineer at **Chegg Inc**, where I focus on deploying Large Language Models (LLMs) and building end-to-end ML platform.
 - 📚 **Education**: B.Tech in Electrical & Electronics Engineering from JNTU, India; Diploma in Embedded Systems from CDAC, Bangalore.
 
 ---
